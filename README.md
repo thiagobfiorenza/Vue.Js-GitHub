@@ -1,4 +1,3 @@
-
 # GitHub List with Vue.js
 Projeto criado com VueJs, inicialmente para fazer buscas de issues utilizando a API do GitHub.
 <p>
